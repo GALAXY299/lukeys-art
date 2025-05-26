@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "private": true,
+  "main": "maketheshitwork.js",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
